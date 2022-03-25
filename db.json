@@ -1,37 +1,137 @@
 {
   "products": [
     {
-      "id": 1,
-      "title": "Google Pixel Slate 12.3-Inch 2 in 1 Laptop Intel Core m3, 8GB RAM, 64GB, Aspect Ratio 3:2",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg"
+      "id": 4223,
+      "name": "Nirbhay Iyengar ff",
+      "email": "iyengar_nirbhay@nienow.io",
+      "gender": "male",
+      "status": "inactive"
     },
     {
-      "id": 2,
-      "title": "GOOGLE PIXEL 4A (JUST BLACK, 6GB RAM, 128GB STORAGE)",
-      "image": "https://vlebazaar.in/image/cache/catalog//B08CFSZLQ4/Google-Pixel-4a-Just-Black-6GB-RAM-128GB-Storage-B08CFSZLQ4-1000x1000.jpg"
+      "id": 4146,
+      "name": "Tanya Varrier",
+      "email": "tanya_varrier@bergnaum.org",
+      "gender": "female",
+      "status": "active"
     },
     {
-      "title": "Quick Charger For Google Pixel 2 XL,3,3a,3a XL,3XL,4,4 XL,4 XL,4a,4a 5G,5,XL Charger Original Like Charger Type-C Qualcomm QC 3.1 Quick Charge Adaptive Fast Charging, Rapid, Dash, VOOC, AFC Charger(3.1 Amp,OP2, WHITE)",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31nj8q6QKAL.jpg",
-      "id": 3
+      "id": 4145,
+      "name": "Akula Dutta DO",
+      "email": "dutta_akula_do@brakus.com",
+      "gender": "female",
+      "status": "inactive"
     },
     {
-      "id": 4
+      "id": 4144,
+      "name": "Vishnu Nambeesan",
+      "email": "nambeesan_vishnu@flatley.io",
+      "gender": "female",
+      "status": "active"
     },
     {
-      "id": 5
+      "id": 4143,
+      "name": "Aaryan Trivedi Sr.",
+      "email": "trivedi_sr_aaryan@kuhlman-schmidt.biz",
+      "gender": "female",
+      "status": "inactive"
     },
     {
-      "id": 6
+      "id": 4141,
+      "name": "Siddarth Chaturvedi",
+      "email": "siddarth_chaturvedi@stoltenberg.com",
+      "gender": "male",
+      "status": "active"
     },
     {
-      "id": 7
+      "id": 4131,
+      "name": "Sharmila Dubashi PhD",
+      "email": "phd_sharmila_dubashi@veum.co",
+      "gender": "male",
+      "status": "inactive"
     },
     {
-      "id": 8
+      "id": 4127,
+      "name": "Meghnad Mukhopadhyay",
+      "email": "mukhopadhyay_meghnad@turcotte.io",
+      "gender": "male",
+      "status": "inactive"
     },
     {
-      "id": 9
+      "id": 4126,
+      "name": "Ms. Bhadran Verma",
+      "email": "ms_verma_bhadran@altenwerth.com",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 4124,
+      "name": "Bhoopat Mehra",
+      "email": "mehra_bhoopat@bartell-brakus.io",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 4123,
+      "name": "Ekaksh Mehrotra",
+      "email": "mehrotra_ekaksh@leannon.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 4122,
+      "name": "Avadhesh Dutta PhD",
+      "email": "avadhesh_dutta_phd@gerhold.info",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 4121,
+      "name": "Bhardwaj Bhattathiri",
+      "email": "bhardwaj_bhattathiri@gislason-ullrich.net",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 4120,
+      "name": "Bhoopati Deshpande",
+      "email": "bhoopati_deshpande@connelly-muller.co",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 4119,
+      "name": "Rita Sethi",
+      "email": "sethi_rita@turner-ernser.io",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 4118,
+      "name": "Anal Chopra",
+      "email": "chopra_anal@oconnell.biz",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 4117,
+      "name": "Govinda Saini",
+      "email": "saini_govinda@kassulke.io",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 4116,
+      "name": "Divjot Gupta",
+      "email": "gupta_divjot@lind.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 4115,
+      "name": "Kamala Mehra",
+      "email": "mehra_kamala@schuster-herzog.io",
+      "gender": "male",
+      "status": "inactive"
     }
   ]
 }

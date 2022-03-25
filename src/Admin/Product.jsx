@@ -20,7 +20,7 @@ export default function () {
   return (
     <Wrapper>
       <Link to="/admin/products/create" className="btn">
-        Add Product
+        Add U
       </Link>
       <table>
         <thead>
@@ -41,8 +41,9 @@ export default function () {
                   <img src={p.image} alt={p.title} width="90" />
                 </td>
                 <td>
-                  <button onclick={() => del(p.id)}>delete</button>
-                  <button>edit</button>
+                  <Link to={`/admin/products/${p.id}/edit`} className="btn">Edit</Link>
+                  <button onClick={() => del(p.id)}>delete</button>
+                  {/* <button>edit</button> */}
                 </td>
               </tr>
             );

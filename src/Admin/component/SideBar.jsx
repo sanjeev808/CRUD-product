@@ -5,8 +5,8 @@ export default function SideBar() {
   return (
     <div className='sidebar'>
       <ul className='side-menu'>
-        <li><Link to='/admin/products'>Products</Link></li>
-        <li><Link to='/admin/products/create'>Add Products</Link></li>
+        <li><Link to='/admin/products'>User</Link></li>
+        <li><Link to='/admin/products/create'>Add user</Link></li>
       </ul>
     </div>
   )
